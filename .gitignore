@@ -1,0 +1,19 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+pubspec.lock
+
+# Firebase
+firebase-debug.log
+.env
+.env.local
+functions/node_modules/
+
+# Others
+*.log
+*.DS_Store
